@@ -1,0 +1,22 @@
+.alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px 20px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    position: relative;
+    max-width: 300px;
+    margin-top: 20px;
+  }
+  
+  .close-btn {
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #721c24;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+  }
+  
